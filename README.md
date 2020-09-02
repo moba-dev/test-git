@@ -1,3 +1,1 @@
 # test-git
-
-# another section
